@@ -6,8 +6,8 @@ title:
   tag: Schlagwort
   schedule: Zeitplan
 menu:
-  home: 主页
-  archives: 档案
+  home: Startseite
+  archives: Archiv
   categories: Kategorien
   tags: Schlagwörter
   about: Über
@@ -19,8 +19,8 @@ sidebar:
   overview: Übersicht
   toc: Inhaltsverzeichnis
 post:
-  posted: 发布时间
-  edited: 编辑时间
+  posted: Veröffentlicht am
+  edited: Bearbeitet am
   created: Erstellt
   modified: Geändert am
   edit: Diesen Beitrag bearbeiten
