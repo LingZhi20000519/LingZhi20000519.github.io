@@ -8,7 +8,7 @@ menu:
 # SubNav
 subnav:
   github: "https://github.com/LingZhi20000519"
-  bilibili: "https://space.bilibili.com/155780009"
+  #bilibili: "https://space.bilibili.com/155780009"
   #douyin: "https://www.douyin.com/user/MS4wLjABAAAAEHXC2fazHd6XKbCyFLMjcWYCpIpGy2hE-VwJH82EOBwf7xYu6HmQC5zPwx2ksJQm"
   #weibo: "#"
   #rss: "#"
@@ -47,7 +47,7 @@ reward_type: 2
 # 打赏wording
 reward_wording: '谢谢你请我吃糖果'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
-alipay: /assets/支付宝收款.jpg
+#alipay: /assets/支付宝收款.jpg
 # 微信二维码图片地址
 weixin: /assets/微信收款.jpg
 
@@ -71,7 +71,7 @@ favicon: /favicon.png
 avatar: /assets/头像.jpg
 
 #是否开启分享
-share_jia: true
+share_jia: false
 
 #评论：1、多说；2、网易云跟帖；3、畅言；4、Disqus；5、Gitment
 #不需要使用某项，直接设置值为false，或注释掉
@@ -116,10 +116,14 @@ slider:
 #  friends: false
 smart_menu:
   innerArchive: '所有文章'
-  friends: '友链'
+  friends: '自媒体'
   aboutme: '关于我'
 
 friends:
-  友情链接1: http://localhost:4000/
+  b站: https://space.bilibili.com/155780009
+  知乎: https://www.zhihu.com/people/lingzhi-89-74/
+  小红书: https://www.xiaohongshu.com/user/profile/620e4dcf000000001000c6bf
+  抖音: https://www.douyin.com/user/MS4wLjABAAAAEHXC2fazHd6XKbCyFLMjcWYCpIpGy2hE-VwJH82EOBwf7xYu6HmQC5zPwx2ksJQm
+  快手: https://www.kuaishou.com/profile/3xipf6fni5wrrwe
 
 aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
