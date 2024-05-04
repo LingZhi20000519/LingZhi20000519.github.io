@@ -3,7 +3,7 @@
 # 这是左侧页面下面的导航栏
 menu:
   主页: /
-  随笔: /tags/随笔/
+  技术: /tags/技术/
 
 # SubNav
 subnav:
@@ -43,7 +43,7 @@ open_in_new: false
 
 # 打赏
 # 打赏type设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-所有文章均有打赏
-reward_type: 2
+reward_type: 0
 # 打赏wording
 reward_wording: '谢谢你请我吃糖果'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
@@ -126,4 +126,4 @@ friends:
   抖音: https://www.douyin.com/user/MS4wLjABAAAAEHXC2fazHd6XKbCyFLMjcWYCpIpGy2hE-VwJH82EOBwf7xYu6HmQC5zPwx2ksJQm
   快手: https://www.kuaishou.com/profile/3xipf6fni5wrrwe
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: 你好呀！我是凌志，欢迎来到我的个人网站！<br><br>我目前主业是软件工程师，副业正在尝试自媒体。<br><br>本网站暂时没有评论功能，不过我创了个qq群，欢迎加入一起唠嗑。<br>【LingZhi20000519的粉丝群】：965492789
